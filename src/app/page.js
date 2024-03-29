@@ -4,7 +4,7 @@ import Link from "next/link";
 function Page() {
   return (
     <div className="flex flex-col items-center justify-center text-white pt-10">
-      <div className="flex items-center mb-8">
+      <div className="flex items-center mb-80">
         <a href="https://ibb.co/1vFqTS0">
           <img
             className=" rounded-full mr-4"
